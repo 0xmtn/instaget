@@ -1,5 +1,4 @@
 # instaget
-<<<<<<< HEAD
 
 Instant photo and video download from instagram
 
@@ -7,8 +6,6 @@ Instant photo and video download from instagram
 Install the module with: `npm install instaget`
 
 ```javascript
-var instaget = require('instaget');
-instaget.awesome(); // "awesome"
 ```
 
 ## Documentation
@@ -23,9 +20,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 ## Release History
 _(Nothing yet)_
 
-## License
+## License MIT
 Copyright (c) 2016 Metin Emenullahi  
-Licensed under the MIT license.
-=======
-Instant photo and media download from Instagram
->>>>>>> 2601da6041e6693d3db5b5ab267800a74f5ab513
