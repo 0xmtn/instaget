@@ -1,4 +1,5 @@
 # instaget
+<<<<<<< HEAD
 
 Instant photo and video download from instagram
 
@@ -25,3 +26,6 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2016 Metin Emenullahi  
 Licensed under the MIT license.
+=======
+Instant photo and media download from Instagram
+>>>>>>> 2601da6041e6693d3db5b5ab267800a74f5ab513
